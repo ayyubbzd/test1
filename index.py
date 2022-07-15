@@ -1,5 +1,3 @@
-print('welcome to git')
+print('welcome to branch1')
 
-x = 3
-y=4
-print(x+y)
+
